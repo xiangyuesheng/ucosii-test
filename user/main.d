@@ -1,0 +1,14 @@
+.\main.o: main.c
+.\main.o: F:\Keil_v5\ARM\Pack\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f0xx.h
+.\main.o: F:\Keil_v5\ARM\Pack\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f070xb.h
+.\main.o: ..\CMSIS\Include\core_cm0.h
+.\main.o: f:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\main.o: ..\CMSIS\Include\core_cmInstr.h
+.\main.o: ..\CMSIS\Include\cmsis_armcc.h
+.\main.o: ..\CMSIS\Include\core_cmFunc.h
+.\main.o: F:\Keil_v5\ARM\Pack\Keil\STM32F0xx_DFP\1.5.0\Device\Include\system_stm32f0xx.h
+.\main.o: ..\uCOS-II\Source\ucos_ii.h
+.\main.o: ..\stm32f0\app_cfg.h
+.\main.o: ..\stm32f0\os_cfg.h
+.\main.o: ..\uCOS-II\Ports\os_cpu.h
+.\main.o: ..\drive\led.h

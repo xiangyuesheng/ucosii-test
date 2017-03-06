@@ -1,0 +1,10 @@
+.\stm32f0xx_it.o: ..\stm32f0\stm32f0xx_it.c
+.\stm32f0xx_it.o: ..\stm32f0\stm32f0xx_it.h
+.\stm32f0xx_it.o: F:\Keil_v5\ARM\Pack\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f0xx.h
+.\stm32f0xx_it.o: F:\Keil_v5\ARM\Pack\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f070xb.h
+.\stm32f0xx_it.o: ..\CMSIS\Include\core_cm0.h
+.\stm32f0xx_it.o: f:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\stm32f0xx_it.o: ..\CMSIS\Include\core_cmInstr.h
+.\stm32f0xx_it.o: ..\CMSIS\Include\cmsis_armcc.h
+.\stm32f0xx_it.o: ..\CMSIS\Include\core_cmFunc.h
+.\stm32f0xx_it.o: F:\Keil_v5\ARM\Pack\Keil\STM32F0xx_DFP\1.5.0\Device\Include\system_stm32f0xx.h

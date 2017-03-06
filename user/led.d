@@ -1,0 +1,10 @@
+.\led.o: ..\drive\led.c
+.\led.o: F:\Keil_v5\ARM\Pack\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f0xx.h
+.\led.o: F:\Keil_v5\ARM\Pack\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f070xb.h
+.\led.o: ..\CMSIS\Include\core_cm0.h
+.\led.o: f:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\led.o: ..\CMSIS\Include\core_cmInstr.h
+.\led.o: ..\CMSIS\Include\cmsis_armcc.h
+.\led.o: ..\CMSIS\Include\core_cmFunc.h
+.\led.o: F:\Keil_v5\ARM\Pack\Keil\STM32F0xx_DFP\1.5.0\Device\Include\system_stm32f0xx.h
+.\led.o: ..\drive\led.h

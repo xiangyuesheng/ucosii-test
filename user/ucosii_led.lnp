@@ -1,0 +1,23 @@
+--cpu Cortex-M0
+".\startup_stm32f0xx.o"
+".\stm32f0xx_it.o"
+".\system_stm32f0xx.o"
+".\main.o"
+".\led.o"
+".\os_cpu_c.o"
+".\os_dbg.o"
+".\os_cpu_a.o"
+".\os_core.o"
+".\os_flag.o"
+".\os_mbox.o"
+".\os_mem.o"
+".\os_mutex.o"
+".\os_q.o"
+".\os_sem.o"
+".\os_task.o"
+".\os_time.o"
+".\os_tmr.o"
+--strict --scatter ".\ucosii_led.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\ucosii_led.map" -o .\ucosii_led.axf
